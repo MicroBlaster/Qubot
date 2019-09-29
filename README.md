@@ -18,23 +18,11 @@ For further information, please visit the [Qubot Reference](https://github.com/M
 
 Since Qubot is built directly or indirectly on scripts and concepts of other scripters, I would like to give credit to:
 
-| --- | --- | --- |
-|+ Cherokee     |jf jkl | hjkshjdlks |
-|+ ElderProphit |
-|+ Hammer       |
-|+ Mind Dagger  |
-|+ Promethies   |
-
-+ Traveler
-+ Vid Kid(CareTaker)
-+ Remco Mulder(Xide)
-+ Ryder
-+ Shadow
-+ The Bounty Hunter
-+ LoneStar
-+ Rammer
-+ Xanos
-+ Zed(Archie)
+|   |   |   |   |   |
+|:-:|:-:|:-:|:-:|:-:|
+|Cherokee     |Mind Dagger |Vid Kid(CareTaker) |Shadow            |Rammer     |
+|ElderProphit |Promethies  |Remco Mulder(Xide) |The Bounty Hunter |Xanos      |
+|Hammer       |Traveler    |Ryder              |LoneStar          |Zed(Archie)|
 
 If I forgot you, please let me know.
 
