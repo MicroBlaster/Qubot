@@ -18,11 +18,12 @@ For further information, please visit the [Qubot Reference](https://github.com/M
 
 Since Qubot is built directly or indirectly on scripts and concepts of other scripters, I would like to give credit to:
 
-+ Cherokee
-+ ElderProphit
-+ Hammer
-+ Mind Dagger
-+ Promethies
+|+ Cherokee     |jf jkl | hjkshjdlks |
+|+ ElderProphit |
+|+ Hammer       |
+|+ Mind Dagger  |
+|+ Promethies   |
+
 + Traveler
 + Vid Kid(CareTaker)
 + Remco Mulder(Xide)
