@@ -1,4 +1,4 @@
-# Qubot - Feel the power...
+![image](https://user-images.githubusercontent.com/3355654/66265195-a7c1ed80-e7d7-11e9-873a-c3f4ee0ec0c6.png)
 
 ## What is Qubot?
 
