@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/3355654/66265195-a7c1ed80-e7d7-11e9-873a-c3f4ee0ec0c6.png)
+![image](https://user-images.githubusercontent.com/3355654/66265616-3e45dd00-e7df-11e9-9fdf-cc426079d9b6.png)
 
 ## What is Qubot?
 
